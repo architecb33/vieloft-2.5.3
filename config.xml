@@ -4,7 +4,7 @@
             xmlns:android   = "http://schemas.android.com/apk/res/android"
         id        = "com.architecgraphic.vieloft"
         versionCode="12" 
-        version   = "1.0.8">
+        version   = "1.0.9">
         
     <name>VIELOFT</name>
     
